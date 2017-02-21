@@ -1,0 +1,47 @@
+[23:02:11] [Client thread/INFO]: Setting user: Player92
+[23:02:14] [Client thread/INFO]: LWJGL Version: 2.9.4
+[23:02:16] [Client thread/INFO]: [STDOUT]: ---- Minecraft Crash Report ----
+// My bad.
+
+Time: 2/21/17 11:02 PM
+Description: Loading screen debug info
+
+This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.11.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_121, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 581905192 bytes (554 MB) / 826277888 bytes (788 MB) up to 3799515136 bytes (3623 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.5.0 NVIDIA 376.33' Renderer: 'GeForce GTX 1080/PCIe/SSE2'
+[23:02:17] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+[23:02:19] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[23:02:19] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[23:02:19] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[23:02:19] [Thread-7/INFO]: OpenAL initialized.
+[23:02:19] [Sound Library Loader/INFO]: Sound engine started
+[23:02:21] [Client thread/INFO]: Created: 16x16 textures-atlas
+[23:02:22] [Client thread/INFO]: [STDOUT]: DIRT BLOCK >> tile.dirt
+[23:02:22] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+[23:02:23] [Client thread/INFO]: SoundSystem shutting down...
+[23:02:23] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[23:02:23] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[23:02:23] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[23:02:23] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[23:02:23] [Thread-9/INFO]: OpenAL initialized.
+[23:02:24] [Sound Library Loader/INFO]: Sound engine started
+[23:02:25] [Client thread/INFO]: Created: 512x512 textures-atlas
+[23:02:26] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[23:02:39] [Client thread/INFO]: Stopping!
+[23:02:39] [Client thread/INFO]: SoundSystem shutting down...
+[23:02:39] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

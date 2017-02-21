@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tutorial-Mod.iml" filepath="$PROJECT_DIR$/.idea/modules/Tutorial-Mod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tutorial-Mod_api.iml" filepath="$PROJECT_DIR$/.idea/modules/Tutorial-Mod_api.iml" group="Tutorial-Mod" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tutorial-Mod_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tutorial-Mod_main.iml" group="Tutorial-Mod" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tutorial-Mod_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tutorial-Mod_test.iml" group="Tutorial-Mod" />
+    </modules>
+  </component>
+</project>
